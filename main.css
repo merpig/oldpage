@@ -2,3 +2,9 @@
 
 	background-color: #00ffff !important
 }
+
+.navbar {
+
+	position: sticky;
+    position: -webkit-sticky;
+}
